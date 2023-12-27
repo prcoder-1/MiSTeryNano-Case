@@ -1,7 +1,7 @@
-## Case for [MiSTeryNano](https://github.com/harbaum/MiSTeryNano).
+# Case for [MiSTeryNano](https://github.com/harbaum/MiSTeryNano).
 ![Case_06.png](photos/Case_06.png)
 
-# M0S Dock version
+## M0S Dock version
 [![MiSTery M0S Dock-Case.stl](photos/MiSTery%20M0S%20Dock-Case.png)](MiSTery%20M0S%20Dock-Case.stl)
 ![09.JPG](photos/09.JPG)
 ![12.JPG](photos/12.JPG)
