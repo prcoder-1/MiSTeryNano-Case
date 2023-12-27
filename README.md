@@ -5,5 +5,6 @@
 [![MiSTery M0S Dock-Case.stl](photos/MiSTery%20M0S%20Dock-Case.png)](MiSTery%20M0S%20Dock-Case.stl)
 ![06.JPG](photos/06.JPG)
 ![12.JPG](photos/12.JPG)
+![09.JPG](photos/09.JPG)
 
 *© prcoder, 2023*
