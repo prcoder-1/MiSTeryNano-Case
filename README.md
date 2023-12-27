@@ -1,2 +1,6 @@
 # MiSTeryNano-Case
-Nag Nano 20K case for MiSTeryNano project
+![Case_06.png](photos/Case_06.png)
+
+## Case for [MiSTeryNano](https://github.com/harbaum/MiSTeryNano).
+
+*© prcoder, 2023*
