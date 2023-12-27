@@ -1,6 +1,5 @@
 # MiSTeryNano-Case
 ![Case_06.png](photos/Case_06.png)
-![Case_05.png](photos/Case_05.png)
 
 ## Case for [MiSTeryNano](https://github.com/harbaum/MiSTeryNano).
 
