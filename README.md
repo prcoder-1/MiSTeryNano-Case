@@ -3,6 +3,7 @@
 ## USB-C Breakout Board version
 
 The device case is designed for use with [USB-C Breakout board](https://aliexpress.ru/item/1005005066738201.html)
+![USB-C Breakout board.png](photos/USB-C%20Breakout%20board.png)
 
 ![MiSTery USB-C Case.png](photos/MiSTery%20USB-C%20Case.png)
 [![USB-C Breakout-Case.stl](photos/USB-C%20Breakout-Case.png)](USB-C%20Breakout-Case.stl)
