@@ -4,6 +4,9 @@
 ![MiSTery USB-C Case.png](photos/MiSTery%20USB-C%20Case.png)
 [![USB-C Breakout-Case.stl](photos/USB-C%20Breakout-Case.png)](USB-C%20Breakout-Case.stl)
 
+### USB-C Breakout Board version (embossed font version)
+[![USB-C Breakout-Case (embossed).stl](photos/USB-C%20Breakout-Case%20(embossed).png)](USB-C%20Breakout-Case%20(embossed)..stl)
+
 ## M0S Dock version
 ![Case_06.png](photos/Case_06.png)
 [![MiSTery M0S Dock-Case.stl](photos/MiSTery%20M0S%20Dock-Case.png)](MiSTery%20M0S%20Dock-Case.stl)
