@@ -4,7 +4,7 @@
 ![MiSTery USB-C Case.png](photos/MiSTery%20USB-C%20Case.png)
 [![USB-C Breakout-Case.stl](photos/USB-C%20Breakout-Case.png)](USB-C%20Breakout-Case.stl)
 
-### Embossed font version
+### Embossed font version for printing upside-down
 [![USB-C Breakout-Case (embossed).stl](photos/USB-C%20Breakout-Case%20(embossed).png)](USB-C%20Breakout-Case%20(embossed).stl)
 
 ## M0S Dock version
